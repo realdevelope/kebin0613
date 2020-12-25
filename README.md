@@ -15,8 +15,8 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Python-00599C?style=flat-Python&logo=C%2B%2B&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Webpack-092E20?style=flat-square&logo=Webpack&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Github-E6B91E?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/MongoDB-DB3552?style=flat-square&logo=MongoDB&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Webpack-9cf?style=flat-square&logo=Webpack&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Github-black?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/MongoDB-success?style=flat-square&logo=MongoDB&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/aws-black?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
   
