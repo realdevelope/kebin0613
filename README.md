@@ -6,11 +6,11 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Html5-red?style=flat-square&logo=Html5&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Css3-007396?style=flat-square&logo=Css3&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Sass-1572B6?style=flat-square&logo=Sass&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Bootstrap-11B48A?style=flat-square&logo=Bootstrap&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/React-6DB33F?style=flat-square&logo=React&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Css3-informational?style=flat-square&logo=Css3&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Sass-ff69b4?style=flat-square&logo=Sass&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Bootstrap-blueviolet?style=flat-square&logo=Bootstrap&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Javascript-yellow?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/React-9cf?style=flat-square&logo=React&logoColor=white"/></a>&nbsp 
   <br>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp
