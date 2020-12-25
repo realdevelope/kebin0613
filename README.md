@@ -5,7 +5,7 @@
 <p align="center"> Techs that I've used at least once </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Html5-3766AB?style=flat-square&logo=Html5&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Html5-#E34F26?style=flat-square&logo=Html5&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Css3-007396?style=flat-square&logo=Css3&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Sass-1572B6?style=flat-square&logo=Sass&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Bootstrap-11B48A?style=flat-square&logo=Bootstrap&logoColor=white"/></a>&nbsp
