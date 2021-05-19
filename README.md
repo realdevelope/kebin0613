@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=SangHoonLee&fontSize=70&animation=twinkling)
 
-<center>안녕하세요~ 프레쉬한 SangHoonLee 입니다.👋</center>
+<center><b font-size="50px">안녕하세요~ 프레쉬한 SangHoonLee 입니다.👋</b></center>
 <center>🎯Front-End 개발자가 되기 위해 JavaScript를 기반으로 웹 개발 공부를 하고 있습니다.</center>
 <center>🦎카멜레온 같은 적응력으로 어느 집단이든 유연하게 스며들어 활동합니다.</center>
 <center>👨‍👩‍👦‍👦새로운것에 도전 하는것을 즐기며, 함께 학습하고 성장하는것을 추구합니다.</center>
