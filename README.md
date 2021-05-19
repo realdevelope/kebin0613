@@ -1,11 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=SangHoonLee&fontSize=70&animation=twinkling)
 
-<p align="center">안녕하세요~ 프레쉬한 SangHoonLee 입니다👋<br>
-🎯Front-End 개발자가 되기 위해 JavaScript를 기반으로 웹 개발 공부를 하고 있습니다.<br>
-🦎카멜레온 같은 적응력으로 어느 집단이든 유연하게 스며들어 활동합니다.<br>
-👨‍👩‍👦‍👦새로운것에 도전 하는것을 즐기며, 함께 학습하고 성장하는것을 추구합니다.<br>
-🦾남에게 도움과 편리함을 주는 좋은 큐레이션 서비스를 하고 싶습니다.<br>
-👨‍💻사용자와 개발자 모두를 위한 개발자가 되고 싶습니다.</p> <br>
+<h3 align="center">👋 안녕하세요~ 프레쉬한 SangHoonLee 입니다👋</h3>
+
+<p align="center">JavaScript를 기반으로 웹 개발 공부를 하고 있습니다.<br>
+  카멜레온 같은 적응력으로 어느 집단이든 유연하게 스며들어 활동합니다.<br>
+  새로운것에 도전 하는것을 즐기며, 함께 학습하고 성장하는것을 추구합니다.<br>
+  남에게 도움과 편리함을 주는 좋은 큐레이션 서비스를 하고 싶습니다.<br>
+  사용자와 개발자 모두를 위한 개발자가 되고 싶습니다.</p> <br>
 
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
